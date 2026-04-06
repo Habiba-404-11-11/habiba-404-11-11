@@ -67,6 +67,15 @@ Building projects in Networking, Algorithms, Embedded Systems, and Software Deve
 
 ---
 
+### 📐 Convex Hull Algorithms (Algorithms & Computational Geometry)
+- Worked in a team to implement and compare multiple convex hull algorithms  
+- Applied Brute Force approach for basic hull construction  
+- Implemented Divide and Conquer strategy for efficient computation  
+- Used Incremental method (Graham Scan) with sorting and stack techniques  
+- Analyzed and compared performance and time complexity of each approach  
+
+---
+
 ## 🎓 Education
 
 **Bachelor of Computer Science**  
