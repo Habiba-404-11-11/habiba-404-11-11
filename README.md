@@ -42,13 +42,6 @@ Passionate about building secure systems and continuously improving my technical
 
 ---
 
-### 📊 Grade Tracker System (C++)
-- Developed individually a grade management system using C++  
-- Implemented file handling for data storage and retrieval  
-- Designed functionality to add, update, and display student records  
-
----
-
 ### 🤖 Car Analysis Project (Data Analysis - Orange)
 - Contributed to a team project using the **Orange data mining tool**  
 - Applied classification and data visualization techniques  
