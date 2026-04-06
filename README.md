@@ -108,7 +108,7 @@ Problem Solving • Critical Thinking • Teamwork • Communication • Time Ma
 ## 📄 CV
 
 📌 You can view my CV here:  
-[https://github.com/Habiba-404-11-11/habiba-404-11-11/blob/main/CV.pdf](https://bit.ly/habiba-cv)
+(https://bit.ly/habiba-cv)
 ---
 
 ## ❤️ Interests
