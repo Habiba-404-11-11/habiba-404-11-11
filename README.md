@@ -36,6 +36,7 @@ Building projects in Networking, Algorithms, Embedded Systems, and Software Deve
 
 ---
 
+
 ### 🎮 Connect Four Game (Object-Oriented Programming)
 - Worked in a team to develop a console-based Connect Four game  
 - Applied **OOP principles** such as encapsulation and modular design  
@@ -54,6 +55,15 @@ Building projects in Networking, Algorithms, Embedded Systems, and Software Deve
 - Developed individually a low-level system using Assembly  
 - Worked with registers, memory operations, and binary logic  
 - Gained deeper understanding of computer architecture and system-level execution  
+
+---
+
+### ☀️ Solar Panel Ordering & Installation System (Web Development)
+- Worked in a team to develop a web-based platform for ordering solar panels and scheduling installation  
+- Implemented role-based access control for Admin and Customer  
+- Designed system to collect user data and recommend suitable solutions  
+- Integrated ordering functionality with appointment scheduling  
+- Built using HTML, CSS, JavaScript, C#/.NET, and SQL Server  
 
 ---
 
