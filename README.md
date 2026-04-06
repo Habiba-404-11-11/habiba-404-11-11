@@ -6,8 +6,9 @@
 
 ## 🎯 About Me
 
-Computer Science student with a strong interest in **Cybersecurity, Ethical Hacking, and Networking**.  
-Passionate about building secure systems and continuously improving my technical skills through hands-on projects and practical learning.
+Computer Science Student | Cybersecurity & Ethical Hacking Enthusiast  
+Actively seeking internships in Cybersecurity  
+Building projects in Networking, Algorithms, Embedded Systems, and Software Development  
 
 ---
 
