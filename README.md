@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Habiba Mohamed
 
-> *"I am nothing til I have something ."*
+> *"It's a leap of faith. That's all it is, Miles. A leap of faith."*
 
 ---
 
